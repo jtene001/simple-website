@@ -1,2 +1,2 @@
-# simple-website
-Site from Practical Guide to Git and Github for Windows
+# phonetic-website
+This repository is used for Git and GitHub training.
